@@ -1,0 +1,7 @@
+C:\Users\Egor\OneDrive\Рабочий стол\Задачи-КАСД\Task 22\Task 22\bin\Debug\Task 22.exe.config
+C:\Users\Egor\OneDrive\Рабочий стол\Задачи-КАСД\Task 22\Task 22\bin\Debug\Task 22.exe
+C:\Users\Egor\OneDrive\Рабочий стол\Задачи-КАСД\Task 22\Task 22\bin\Debug\Task 22.pdb
+C:\Users\Egor\OneDrive\Рабочий стол\Задачи-КАСД\Task 22\Task 22\obj\Debug\Task 22.csproj.AssemblyReference.cache
+C:\Users\Egor\OneDrive\Рабочий стол\Задачи-КАСД\Task 22\Task 22\obj\Debug\Task 22.csproj.CoreCompileInputs.cache
+C:\Users\Egor\OneDrive\Рабочий стол\Задачи-КАСД\Task 22\Task 22\obj\Debug\Task 22.exe
+C:\Users\Egor\OneDrive\Рабочий стол\Задачи-КАСД\Task 22\Task 22\obj\Debug\Task 22.pdb
