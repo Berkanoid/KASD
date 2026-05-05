@@ -1,0 +1,7 @@
+float -> pi(314)
+int -> age(25)
+int -> ok(0)
+double -> _var(42)
+int -> long_name_123(100)
+int -> x(10)
+double -> e(271)

@@ -1,0 +1,16 @@
+int age = 25;
+float pi = 314;
+double e = 271;
+int age = 30;
+float invalid = 3.14;
+double _var = 42;
+int long_name_123 = 100;
+float another = abc;
+string bad = 5;
+double pi = 3;
+int x = 10;
+int x = 10;
+float = 5;
+int y 5;
+int y =;
+int ok = 0;
