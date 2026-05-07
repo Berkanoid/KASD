@@ -1,0 +1,5 @@
+Hello world! This is a test.
+HELLO world! This is a TEST.
+hello, WORLD! This, is a test.
+123 numbers and words.
+Words: apple, banana, Apple, BANANA.
